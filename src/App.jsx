@@ -18,9 +18,9 @@ function App() {
     <div className="App">
       <header className="header-container">
         <div className="left-section">
-          <img src="./src/headshotCropped.png" alt="Your Profile" className="profile-picture" />
+          <img src="/src/headshotCropped.png" alt="Your Profile" className="profile-picture" />
           <h1>Michael Dinh</h1>
-        </div>12
+        </div>
         <div className="right-section">
           <a href="./src/Michael.Dinh.Resume.pdf" target="_blank" rel="noopener noreferrer">
             Resume
