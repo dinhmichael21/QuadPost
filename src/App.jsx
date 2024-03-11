@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css'; // Import your CSS file here
 import { Button, Modal, Container, Row, Col, Card } from 'react-bootstrap'; // Import React Bootstrap components
+import assets from './assets.jsx'; 
 
 function App() {
   const [showWhyHireModal, setShowWhyHireModal] = useState(false);
@@ -18,11 +19,11 @@ function App() {
     <div className="App">
       <header className="header-container">
         <div className="left-section">
-          <img src="/src/headshotCropped.png" alt="Your Profile" className="profile-picture" />
+          <img src={assets.profilePicture} alt="My Profile Picture" className="profile-picture" />
           <h1>Michael Dinh</h1>
         </div>
         <div className="right-section">
-          <a href="./src/Michael.Dinh.Resume.pdf" target="_blank" rel="noopener noreferrer">
+          <a href={assets.resume} target="_blank" rel="noopener noreferrer">
             Resume
           </a>
           <a href="https://www.linkedin.com/in/michael-dinh-8a080a1a7/" target="_blank" rel="noopener noreferrer">
