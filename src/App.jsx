@@ -40,13 +40,13 @@ function App() {
           First and foremost, I want to express my heartfelt gratitude to each of you for the time and thoughtful discussions during my interviews. Your insights and questions have left a lasting impression, and I appreciate the opportunity to learn more about Quad's dynamic environment.
           <br />
           <br />
-          <strong>To Mario:</strong> Mario, your role overseeing application development and support for multiple teams is fascinating. While I admit I didn't fully grasp all the intricacies during our conversation, I'm genuinely intrigued by the intersection of client feedback, data crunching, and value delivery. I hope to learn more about how your team's efforts contribute to Quad's success in the future.
+          <strong>To Mario:</strong> Mario, your role overseeing application development with feedback is fascinating. While I admit I didn't fully grasp all the intricacies during our conversation, I'm genuinely intrigued by the intersection of client feedback and data crunching. I hope to learn more about how your team's efforts contribute to Quad's success in the future!
           <br />
           <br />
-          <strong>To Brian and David:</strong> Brian and David, thank you for creating such a welcoming and stress-free environment during the technical assessments. Your easygoing demeanor allowed me to express my thoughts confidently. I also thoroughly enjoyed your goofy dynamic—it's refreshing to see a team that works well together. I look forward to the possibility of collaborating with you both someday.
+          <strong>To Brian and David:</strong> Brian and David, thank you for creating such a welcoming and stress-free environment during the technical assessments. Your easygoing demeanor allowed me to express my thoughts confidently. I also thoroughly enjoyed your lighthearted dynamic—it's refreshing to see a team that works so well together. I look forward to the possibility of working with you both someday.
           <br />
           <br />
-          <strong>To Jim:</strong> I appreciate the engaging conversation we had. The prospect of joining Quad excites me, especially considering the fun environment you described. And yes, as a Chicago sports fan, I'm convinced there's still a little "Bears fan" left in you. Perhaps we can discuss sports over a game of pickleball someday!
+          <strong>To Jim:</strong> I appreciate the engaging conversation we had. The prospect of joining Quad excites me, especially considering the fun environment you described. And yes, as a Chicago sports fan, I'm convinced there's still a little Bears fan left in you. Perhaps we can discuss sports over a game of pickleball someday!
           <br />
           <br />
           I don't want to take up too much of everyone's time, so I kept this short. Thank you all once again for considering me. I eagerly await the opportunity to contribute to Quad's continued success.
