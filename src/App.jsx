@@ -18,11 +18,11 @@ function App() {
     <div className="App">
       <header className="header-container">
         <div className="left-section">
-          <img src="headshotCropped.png" alt="Your Profile" className="profile-picture" />
+          <img src="/src/headshotCropped.png" alt="Your Profile" className="profile-picture" />
           <h1>Michael Dinh</h1>
         </div>
         <div className="right-section">
-          <a href="/Michael.Dinh.Resume.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/src/Michael.Dinh.Resume.pdf" target="_blank" rel="noopener noreferrer">
             Resume
           </a>
           <a href="https://www.linkedin.com/in/michael-dinh-8a080a1a7/" target="_blank" rel="noopener noreferrer">
